@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(33, 65, 87);
+    background-size: cover;
+    background-position: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.heading{
+
+    /* height: 5rem; */
+    color: white;
+    font-size: 4.3em;
+    font-weight: 700;
+    position: absolute;
+    top: -2rem;
+}
+
+.space-slider{
+    color: white;
+    position: absolute;
+    top: 10rem;
+    font-size: 3em;
+}
+.image-box{
+    border-width: 1rem;
+    border-color:yellow ;
+    border-style: solid;
+    position: absolute;
+    top: 15rem;
+
+}
