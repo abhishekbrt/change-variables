@@ -26,8 +26,8 @@ body{
     font-size: 3em;
 }
 .image-box{
-    border-width: 1rem;
-    border-color:yellow ;
+    border-width: 5px;
+    border-color:#ffff00 ;
     border-style: solid;
     position: absolute;
     top: 15rem;
