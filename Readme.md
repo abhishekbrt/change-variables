@@ -1,1 +1,1 @@
-updating css variables with javascript.
+project for updating css variables with javascript.

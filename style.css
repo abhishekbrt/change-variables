@@ -31,5 +31,8 @@ body{
     border-style: solid;
     position: absolute;
     top: 15rem;
+}
 
+.image{
+    filter: blur(0px);
 }
